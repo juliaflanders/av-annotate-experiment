@@ -1,5 +1,56 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sample annotation 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "cf7412e9-9c37-44d8-9223-af6f9e08c4a7"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sample annotation 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "d0f5cbc4-0bc8-4bf9-8bbf-3ec95049df4f"
+    }
+  ],
   "set": "Default",
   "event_id": "3104b438-9188-4d3a-aa06-169d6913181e",
   "source_id": "02347cd9-721a-4b2f-9cf1-ccef5911eea7"
